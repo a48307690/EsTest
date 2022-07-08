@@ -38,6 +38,7 @@ public class EbookEntry extends Model<EbookEntry> implements Serializable {
     //日期
     @DateTimeFormat(pattern ="yyyy-mm-dd")
     private Date date;
+    //第二次提交
 
 
 
